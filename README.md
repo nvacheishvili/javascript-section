@@ -14,3 +14,4 @@ node hello.js
 - `variables-and-data-types`: `variables.js`, const and let, strings, numbers, booleans, undefined and null, typeof (Variables and data types)
 - `operators-maths-comparing-and-combining`: `operators.js`, maths (`* / % - +`, brackets first), comparing (`>=`, `===`), combining (`&&`, `||`, `!`) (Operators: maths, comparing and combining)
 - `strings-and-template-literals`: `strings.js`, joining strings with `+`, template literals (backticks and `${}`), `.length`, `.includes()`, `.toUpperCase()` (Strings and template literals)
+- `making-decisions-if-the-ternary-truthy-and-falsy`: `decisions.js`, `if` / `else if` / `else`, the ternary (`? :`), truthy and falsy (Making decisions: if, the ternary, truthy and falsy)
