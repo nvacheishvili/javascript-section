@@ -15,3 +15,5 @@ node hello.js
 - `operators-maths-comparing-and-combining`: `operators.js`, maths (`* / % - +`, brackets first), comparing (`>=`, `===`), combining (`&&`, `||`, `!`) (Operators: maths, comparing and combining)
 - `strings-and-template-literals`: `strings.js`, joining strings with `+`, template literals (backticks and `${}`), `.length`, `.includes()`, `.toUpperCase()` (Strings and template literals)
 - `making-decisions-if-the-ternary-truthy-and-falsy`: `decisions.js`, `if` / `else if` / `else`, the ternary (`? :`), truthy and falsy (Making decisions: if, the ternary, truthy and falsy)
+- `loops-for-and-while`: `loops.js`, the `for` loop (start, condition, step, `track++`), the `while` loop, counting up to a limit (Loops: for and while)
+- `functions-scope-and-jsdoc`: `functions.js`, functions with a parameter and `return`, calling them, scope, a JSDoc comment (Functions, scope, and JSDoc)
